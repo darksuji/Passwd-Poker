@@ -1,7 +1,7 @@
 #!perl -T
-use 5.020;
+use 5.018;
 use strict;
-use warnings FATAL => 'all;
+use warnings FATAL => 'all';
 use Test::More;
 
 plan tests => 1;
